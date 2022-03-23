@@ -1,6 +1,6 @@
 ### How to build the application
 
-based on this [video]("https://www.youtube.com/watch?v=opHbgp2f128&ab_channel=RawCoding") 
+based on this [Video](https://www.youtube.com/watch?v=opHbgp2f128)
 
 To build the client
 
